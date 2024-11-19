@@ -33,7 +33,7 @@
 | 프로젝트 이름 | 설명 | 기술 스택 |
 |---------------|------|-----------|
 | [**KOELECTRA-BiGRU**](https://github.com/hongjo-dev/KOELECTRA-BIGRU) | 한국어 개체명 인식을 위한 최신 NLP 모델 | KoELECTRA, BiGRU 
-
+| [**Exercise App**](https://github.com/hongjo-dev/exercise-app) | 운동 자세 분석 및 건강 관리를 위한 모바일 앱 | Flutter, Google ML Kit, Firebase, dart 
 
 ## ✨ **관심 분야**
 
