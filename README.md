@@ -32,8 +32,10 @@
 
 | 프로젝트 이름 | 설명 | 기술 스택 |
 |---------------|------|-----------|
-| [**KOELECTRA-BiGRU**](https://github.com/hongjo-dev/KOELECTRA-BIGRU) | 한국어 개체명 인식을 위한 최신 NLP 모델 | KoELECTRA, BiGRU 
-| [**Exercise App**](https://github.com/hongjo-dev/exercise-app) | 운동 자세 분석 및 건강 관리를 위한 모바일 앱 | Flutter, Google ML Kit, Firebase, dart 
+| [**KOELECTRA-BiGRU**](https://github.com/hongjo-dev/KOELECTRA-BIGRU) | 한국어 개체명 인식을 위한 최신 NLP 모델 | KoELECTRA, BiGRU |
+| [**Exercise App**](https://github.com/hongjo-dev/exercise-app) | 운동 자세 분석 및 건강 관리를 위한 모바일 앱 | Flutter, Google ML Kit, Firebase, Dart |
+| [**HJPlayer**](https://github.com/hongjo-dev/videoplayer-project) | MP4 및 다양한 미디어 파일 재생을 위한 데스크톱 플레이어 | .NET Framework, Bunifu UI, LAV Filters |
+
 
 
 ## 🏆 **수상 내역**
