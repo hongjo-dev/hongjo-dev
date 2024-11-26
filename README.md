@@ -118,4 +118,4 @@ Google ML Kit을 사용하여 운동 자세를 실시간으로 분석하며, Fir
 - 자연어 처리(NLP)
 - 머신러닝 및 딥러닝
 - AI 기반 추천 시스템
-- 스마트 앱 및 서비스 개발
+- application software
