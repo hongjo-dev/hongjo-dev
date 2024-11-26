@@ -51,6 +51,25 @@ LAV Filters를 활용한 미디어 재생 기능과, Bunifu UI 라이브러리�
 
 ---
 
+## 🌊 **Flooded Area Prediction**
+📅 **개발 기간**: 2022.07.01 - 2022.09.30  
+
+💡 **프로젝트 설명**  
+**침수 위험 지역 예측 모델 개발 프로젝트**로, 다양한 공간 데이터와 기상 데이터를 결합하여 침수 가능성을 예측합니다. QGIS를 활용한 데이터 전처리 및 지도 시각화와 머신러닝 기반 예측 모델 개발을 포함합니다.
+
+✨ **핵심 역할**  
+- 지형 데이터 및 강수량 데이터를 기반으로 한 전처리 작업 설계  
+- LightGBM 및 XGBoost 모델을 사용하여 침수 예측  
+- 침수 위험 지역을 지도 상에 시각화  
+
+🛠️ **기술 스택**  
+- **Tools**: QGIS  
+- **Model**: LightGBM, XGBoost  
+- **Data**: GeoSpatial Data, 기상청 API, 공공데이터포털
+
+🔗 **[프로젝트 상세 설명](https://github.com/hongjo-dev/Flooded_area_prediction)**
+
+---
 ## 📚 **KOELECTRA-BiGRU**
 📅 **개발 기간**: 2023.08.11 - 2023.11.28  
 
