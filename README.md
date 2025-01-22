@@ -97,7 +97,7 @@ LAV Filters를 활용한 미디어 재생 기능과, Bunifu UI 라이브러리�
 📅 **개발 기간**: 2023.12.01 - 2024.03.01  
 
 💡 **프로젝트 설명**  
-**Sign Language Transformer**는 **Node.js & React** 기반 웹 애플리케이션으로, **수어 → 한국어**와 **한국어 → 수어** 양방향 번역을 제공합니다. Transformer 모델과 수어 Detection 모델을 결합하여 실시간 번역 기능을 구현했습니다.  
+***Two-way Sign language translationr**는 **Node.js & React** 기반 웹 애플리케이션으로, **수어 → 한국어**와 **한국어 → 수어** 양방향 번역을 제공합니다. Transformer 모델과 수어 Detection 모델을 결합하여 실시간 번역 기능을 구현했습니다.  
 
 ✨ **핵심 역할**  
 - Node.js 서버 및 React 클라이언트 설계  
