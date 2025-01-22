@@ -93,7 +93,7 @@ LAV Filters를 활용한 미디어 재생 기능과, Bunifu UI 라이브러리�
 
 ---
 
-## 👐 **Sign Language Transformer**
+## 👐 **Two-way Sign language translation**
 📅 **개발 기간**: 2023.12.01 - 2024.03.01  
 
 💡 **프로젝트 설명**  
