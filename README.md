@@ -107,7 +107,7 @@ LAV Filters를 활용한 미디어 재생 기능과, Bunifu UI 라이브러리�
 🛠️ **기술 스택**  
 - **Back-end**: Node.js, Express  
 - **Front-end**: React, Socket.io  
-- **Model**: PyTorch (Transformer), 범모 제작 Detection 모델  
+- **Model**: PyTorch (Transformer), 김범모 제작 Detection 모델  
 - **Tools**: FFmpeg, Multer  
 
 🔗 **[프로젝트 상세 설명](https://github.com/hongjo-dev/sign-language-translator)**
