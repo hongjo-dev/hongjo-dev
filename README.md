@@ -48,7 +48,7 @@
 - **Front-end**: Flutter  
 - **Library**: FL Chart
 
-🔗 **프로젝트 관련 이미지 및 설명은 [여기](https://github.com/hongjo-dev/scalp-analysis)**에서 확인할 수 있습니다.
+🔗 프로젝트 관련 이미지 및 설명은 [여기](https://github.com/hongjo-dev/scalp-analysis)에서 확인할 수 있습니다.
 
 ---
 
